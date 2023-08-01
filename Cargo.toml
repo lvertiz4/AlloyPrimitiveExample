@@ -1,5 +1,5 @@
 [package]
-name = "reqwest_serde_json_sandbox"
+name = "AlloyPrimitiveExample"
 version = "0.1.0"
 edition = "2021"
 
